@@ -1,0 +1,11 @@
+/Users/onademuytere/Documents/GitHub/1819-CSSE1/opdrachten/opdracht2/bin/Debug/netcoreapp2.1/opdracht2.deps.json
+/Users/onademuytere/Documents/GitHub/1819-CSSE1/opdrachten/opdracht2/bin/Debug/netcoreapp2.1/opdracht2.runtimeconfig.json
+/Users/onademuytere/Documents/GitHub/1819-CSSE1/opdrachten/opdracht2/bin/Debug/netcoreapp2.1/opdracht2.runtimeconfig.dev.json
+/Users/onademuytere/Documents/GitHub/1819-CSSE1/opdrachten/opdracht2/bin/Debug/netcoreapp2.1/opdracht2.dll
+/Users/onademuytere/Documents/GitHub/1819-CSSE1/opdrachten/opdracht2/bin/Debug/netcoreapp2.1/opdracht2.pdb
+/Users/onademuytere/Documents/GitHub/1819-CSSE1/opdrachten/opdracht2/obj/Debug/netcoreapp2.1/opdracht2.csprojAssemblyReference.cache
+/Users/onademuytere/Documents/GitHub/1819-CSSE1/opdrachten/opdracht2/obj/Debug/netcoreapp2.1/opdracht2.csproj.CoreCompileInputs.cache
+/Users/onademuytere/Documents/GitHub/1819-CSSE1/opdrachten/opdracht2/obj/Debug/netcoreapp2.1/opdracht2.AssemblyInfoInputs.cache
+/Users/onademuytere/Documents/GitHub/1819-CSSE1/opdrachten/opdracht2/obj/Debug/netcoreapp2.1/opdracht2.AssemblyInfo.cs
+/Users/onademuytere/Documents/GitHub/1819-CSSE1/opdrachten/opdracht2/obj/Debug/netcoreapp2.1/opdracht2.dll
+/Users/onademuytere/Documents/GitHub/1819-CSSE1/opdrachten/opdracht2/obj/Debug/netcoreapp2.1/opdracht2.pdb
