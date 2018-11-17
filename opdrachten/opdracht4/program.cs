@@ -16,29 +16,47 @@ namespace OOP
         public String valuta = "";
         public Double value = 0;
     }}
-    public class MenuItem1 : MenuItem1{
+    public class MenuItem1 : MenuItems{ //sub class
         public static void Main(String[] args){
     //title of console window 
         Console.Title = "Menu items";
 
         //make some menu items
         //without parameters
-        Product product1 = new Product();
-        product1.Name;
-        product1.Type;
-        product1.ingredients;
+        MenuItem m1 = new MenuItems();
+        m1.MenuItem.Name;
+        m1.MenuItem.Type;
+        m1.MenuItem.ingredients;
+        m1.MenuItem1.valuta;
+        m1.MenuItem1.value;
 
         //with x parameters
-        Product product2 = new Product();
-        product2.Name = "Spa";
-        product2.Type = "drinks";
-        product2.ingredients.Add("water");
+        MenuItem m2 = new MenuItem();
+        m2.MenuItem.Name = "Spa";
+        m2.MenuItem.Type = "drinks";
+        m2.MenuItem.ingredients.Add("water");
+        m2.MenuItem1.valuta = "€";
+        m2.MenuItem1.value = 1.5;
 
         //with y parameters
-        Product product3 = new Product();
-        product3.Name = "Leo";
-        product3.Type = "biscuits";
-        product3.ingredients.Add("milk", "chocolat", "sugar");
+        MenuItem m3 = new MenuItem();
+        m3.MenuItem.Name = "Leo";
+        m3.MenuItem.Type = "biscuits";
+        m3.MenuItem.ingredients.Add("milk", "chocolat", "sugar");
+        m3.MenuItem1.valuta = "€";
+        m3.MenuItem1.value = 2;
+
+        //put them in a list
+        List<String> listMenuItems = new List<string>();
+        list.Add(m1);
+        list.Add(m2);
+        list.Add(m3);
+
+        //watch in console
+        Console.WriteLine(listMenuItems.ToString);
+       
+        //sort by on the elements: HOW?
+        //alfabetic (by name), by price low to high/high to low, by type of product...
 
         //keep console window open
         Console.ReadKey();
