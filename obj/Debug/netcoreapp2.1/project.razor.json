@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/Users/onademuytere/Documents/GitHub/1819-CSSE1/1819-CSSE1.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
