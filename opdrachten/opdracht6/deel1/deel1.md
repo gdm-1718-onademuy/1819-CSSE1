@@ -1,25 +1,30 @@
 ## Ona Demuytere - 22/12/2018
 # Deel 1: Dataformaten
 ## Wat is een dataformaat?
-Een specifieke soort data, dat bepaalt welke waarde da variabele kan bevatten.
+De manier waarop de informatie in een computerbestand binair gecodeerd is, het legt vast met welke syntaxis en semantiek de informatie in een reeks enen en nullen wordt vastgelegd en teruggelezen kan worden.
 
 ## Welke dataformaten zijn er?	
-Primitieve, enkelvoudige en samengestelde dataformaten.
+Onderstaande zijn de meest voorkomende dataformaten voor:
+### Tekst: 
+txt, xml, doc(x), odt, pdf(/A)
+### Audio: 
+mp3, wav, wma, aac, aiff, flac, lpcm
+### Video: 
+mpeg, wmv, H.264, DivX, mkv, mxf, avi, mov, ffv1
+### Foto: 
+jpeg, tif(f), gif, jpg, jp2, png
+### E-mail: 
+xml, msg
+### Websites: 
+xml, (x)html, cms, pdf, python, php, rss, javascript, perl script
+### Data(banken):
+data, xml, sql, log
+### Programmeren:
+javascript, html, css, c#, c++, java, swift
+
+En nog veel meer… 
 
 ## Wat zijn de verschillen?
-### Primitieve dataformaten 
-zijn gedefinieerd door de programmeertaal zelf, bv:
-- Boolean;
-- Char;
-- Integer;
-- Double;
-- Decimal
+Alle bestanden zijn binair. Maar vroeger, wanneer er nog eenvoudige tekstcoderingen bestonden, konden de bits in een bestand nog als kleine groepen met een vaste lengte gelezen worden. Dit heette ASCII, en is een getal tussen 1 en 127.
 
-### Enkelvoudige dataformaten 
-(= simple datatype) zijn gedefinieerd op basis van een primitief dataformaat. De voorwaarde is dat een enkelvoudig datatype enkel als geheel kan worden uitgelezen.
-
-### Samengestelde dataformaten 
-(= complex datatype) bestaan uit meerdere simpele types die afzonderlijk kunnen worden uitgelezen. Deze structuren welke resulteren in arrays, klasse, lijsten.. die samengesteld zijn uit elementen die op zichzelf ook kunnen bestaan uit samengestelde datatypes zoals lijsten van lijsten, geneste structuren etc… 
-- String (reeks van karakters)
-- Conversie (huidig datatype wijzigen in ander) 
 
